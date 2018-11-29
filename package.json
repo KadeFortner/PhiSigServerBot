@@ -1,0 +1,8 @@
+{
+“name”: “beta_bot”,
+“version”: “1.0.0”,
+“description”: “Bot for testing”,
+“main”: “bot.js”,
+“author”: “Kade Fortner”,
+“dependencies”: {}
+}
